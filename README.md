@@ -32,7 +32,6 @@ Este projeto consiste em um dashboard interativo desenvolvido no Power BI que an
 
 ## Pré-visualização
 ![Dashboard Overview](./images/preview1.png)
-![Dashboard Overview_2](./images/preview2.png)
 
 ## Como visualizar o dashboard
 Cerifique-se de que tenha o Power BI Desktop instalado na sua máquina. Caso contrário, baixe e instale-o pelo [site oficial](https://www.microsoft.com/pt-br/power-platform/products/power-bi) Após isso, abra o arquivo Spotify_Dashboard.pbix.
