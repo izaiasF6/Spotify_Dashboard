@@ -1,4 +1,4 @@
-# Spotify Analysis - Power BI dashboard
+# Análise das 100 músicas mais tocadas por semana do Spotify em 2024 - Power BI dashboard
 
 ## Descrição
 
