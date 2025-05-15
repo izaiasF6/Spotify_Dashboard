@@ -2,7 +2,7 @@
 
 ## Descrição
 
-Este projeto realiza uma análise dos ranking das 100 músicas mais ouvidas de cada semana de 2024.
+Este projeto consiste em um dashboard interativo desenvolvido no Power BI que analisa as 100 músicas mais tocadas de cada semana de 2024, com base em dados do Spotify. O objetivo é identificar tendências e padrões de consumo musical, analisar o desempenho de artistas e músicas ao longo do ano, e apresentar insights visuais de forma clara e dinâmica.
 
 ## Fontes dos dados
 
@@ -22,3 +22,16 @@ Este projeto realiza uma análise dos ranking das 100 músicas mais ouvidas de c
 - Pré-processamento dos dados com Pandas
 - Criação do dashboard dinâmico utilizando o Power BI
 
+## Funcionalidades
+- Filtro por artista, nome da música e data
+- Vista de informações adicionais das músicas (álbum e imagem da capa do álbum)
+- Análise de permanência das músicas no ranking. Além de destaque para o rank semanal e melhor rank geral
+- Visualização das 100 músicas mais tocadas por semana escolhida ou visualização de todas as músicas com base em um intervalo de data
+- Evolução das streams de músicas durante o ano ou evolução das streams das semanas ao longo do ano
+- Quantidade anual de músicas por faixa do ranking
+
+## Pré-visualização
+![Dashboard Overview](./images/dashboard-preview.png)
+
+## Como visualizar o dashboard
+Cerifique-se de que tenha o Power BI Desktop instalado na sua máquina. Caso contrário, baixe e instale-o pelo [site oficial](https://www.microsoft.com/pt-br/power-platform/products/power-bi) Após isso, abra o arquivo Spotify_Dashboard.pbix.
